@@ -1,107 +1,100 @@
-<!--
-**lucascarmo-glitch/lucascarmo-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**lucascarmo-glitch/lucascarmo-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="left"> <!--welcome-msg-->
-  Olá, eu sou Lucas Silva! 👋
-</h2> <!--end presentation-->
-
-<hr style="height: 1px"/> <!--style-line-->
-
-<p align="jusitify"> <!--resume-start-->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sou <b>graduando em Cibersegurança</b> e <b>estudante de Programação Full Stack</b>. Tenho interesse em unir <b>segurança da informação</b> e <b>desenvolviemnto de software</b>, buscando criar soluções seguras, escaláveis e intuitivas.   
-</p> <!--resume-end-->
-
-<br/> <!--break-line-->
---
-
-<h3 align="center">💻 Linguagens e Tecnologias</h3> <!--SVG-icons-->
-<br/> <!--break-line-->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  &nbsp;&nbsp; <!--identation-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-</p> <!--end-SVG-icons-->
-
-<br/> <!--break-line-->
---
-
-<h3 align="center">🚀 Projetos em Destaque (Full Stack & Cyber)</h3> <!--projects-list-->
-<br/> <!--break-line-->
-<ul> <!--list-init-->
-  <li> 
-    <b>Game Mania:</b> o projeto consiste no desenvolvimento do site e-commerce "Game Mania", voltado para o público gamer e especializado na venda de aparelhos tecnológicos.
-  </li> 
-  <br/> <!--break-line-->
-<!--links-->
-<a href="https://github.com/lucascarmo-glitch/Senai_Front-End">
-🔹Acesse o site</a>
-<br/> <!--break-line-->
-<a href="https://github.com/lucascarmo-glitch/Senai_Front-End">
-  🔹Acesse o repositório</a>
-</ul><!--list-end-->
-
-<br/> <!--break-line-->
---
-
-<h3 align="center">🧠 O que estou aprendendo e praticando</h3> <!--learning-list-->
-<br/> <!--break-line-->
-<ul><!--list-init-->
- <li>
-  🌐 <b>Front-end:</b> HTML, CSS, JavaScript e JQuery, com foco em interfaces responsivas, seguras e com aplicação de princípios de UI/UX.
- </li>
- <li>
-  ⚙️ <b>Infraestrutura de TI:</b> redes, servidores, virtualização e fundamentos de segurança da informação. 
- </li>
- <li>
-  🐧 <b>Linux:</b> automação e práticas seguras no terminal.
- </li>
- <li>
-  💡 <b>Lógica de Programação:</b><br/> <!--break-line-->
-   &nbsp;&nbsp;🔹 <b>Python</b> - para automação e aprimoramento de estruturas, algoritmos e boas práticas de código.<br/> <!--break-line-->
-   &nbsp;&nbsp;🔹 <b>C#</b> - para Cibersegurança.<br/> <!--break-line-->  
-   &nbsp;&nbsp;🔹 <b>JavaScript</b> - desenvovlimento web.
- </li>
-</ul><!--list-end-->
-
-<br/> <!--break-line-->
---
-
-<h3 align="center">📈 Estatísticas do meu GitHub</h3> 
-<br/> <!--break-line-->
-
-<div style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
-  <!-- Commit cards and stats -->
-  <div><!--stats-init-->
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascarmo-glitch&show_icons=true&theme=dark">
+<!-- ****************** Visit Counter ****************** -->
+<div align="right">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascarmo-glitch.lucascarmo-glitch&"  />
   </div>
-  <!-- Most used languages card -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarmo-glitch&layout=compact&theme=dark">
-  </div>
-</div><!--stats-finish-->
+<!-- ****************** End- Visit counter ****************** -->
 
-<hr/>
+<!-- ****************** Hello World ****************** -->
+<h1 align="center">
+      Olá, meu nome é Lucas 👋 
+</h1> 
+<!-- ****************** End- Hello World ****************** -->
+
+### <!--strip line-->
+
+<!-- ****************** Presentation ****************** -->
+<p>
+Sou um entusiasta de tecnologia e desenvolvimento, atualmente cursando graduação em Cibersegurança e formação em Programação Full Stack. Neste perfil, compartilho projetos acadêmicos, desafios de cursos e experimentos práticos que refletem minha evolução como profissional de TI.
+
+Meu objetivo é aplicar conhecimentos em programação, segurança cibernética e soluções inovadoras para problemas reais, construindo código limpo, organizado e funcional. Aqui você encontrará projetos que demonstram habilidades em Python, JavaScript, C#, desenvolvimento web, automação e boas práticas de segurança.
+
+Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transformar conhecimento em resultados práticos. Explore meus repositórios e acompanhe minha jornada de crescimento técnico e profissional.
+</p>
+<!-- ****************** End- Presentation ****************** -->
+
+## <!--stripe-line-->
+
+<!-- ****************** Social & animation ****************** -->
+<div align="left">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.carmo@iesb.edu.br)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-916a38341/)
+
+</div>
+
+<!--Snake animation-->
+<img src="https://raw.githubusercontent.com/lucaslessaanacleto/lucaslessaanacleto/output/snake.svg" alt="Snake animation" />
+<!-- ****************** End - Social & Animation ****************** -->
+
+##  <!--stripe-line-->
+
+<!-- ****************** Stats ****************** -->
+<div align="center">
+
+<h3 align="left">📈  Minhas Estatísticas:</h3>
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucascarmo-glitch&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascarmo-glitch&theme=tokyonight&hide=Pascal) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascarmo-glitch&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascarmo-glitch&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=lucascarmo-glitch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
+
+</div> 
+<!-- ****************** End - Stats ****************** -->
+
+## <!--stripe-line-->
+
+<!-- ****************** Projects ****************** -->
+<div align="left">
+  
+  <h3 align="left">🚀 Projetos:</h3>
+
+- [Game Mania - HTML/CSS/JavaScript/JQuery](https://github.com/lucascarmo-glitch/Senai_Front-End)
+
+</div> 
+<!-- ****************** End - Projects ****************** -->
+
+## <!--stripe-line-->
+
+<!-- ****************** Skills ****************** -->
+<h3 align="left">🔥 Skills</h3>
+
+<!-- Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens e Tecnologias</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" width="40" height="30" alt="C#" />
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  </div>
+  
+  <!-- Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="30"/>
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  </div>
+  
+  <!-- Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Bibliotecas e Frameworks</h3>
+    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" align="" width="40" height="30">
+    <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="40" height="30"/>
+  </div>
