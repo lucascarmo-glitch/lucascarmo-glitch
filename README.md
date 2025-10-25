@@ -94,6 +94,6 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
   <div style="gap: 15px" align="center">
         <h3>Bibliotecas e Frameworks</h3>
         <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" width="80" height="80" background-color="white"/>
-        <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="80" height="80"/>
+        <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="80" height="80" align="center"/>
   </div>
 <!-- ****************** End- Skills ****************** -->
