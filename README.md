@@ -43,8 +43,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
 
 <!-- ****************** Stats ****************** -->
 <div align="center">
-
-<h3 align="left">📈  Minhas Estatísticas:</h3>
+      <h3 align="left">📈  Minhas Estatísticas:</h3>
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucascarmo-glitch&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascarmo-glitch&theme=tokyonight&hide=Pascal) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascarmo-glitch&theme=tokyonight) |
 | :-: | :-: | :-: |
@@ -59,8 +58,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
 
 <!-- ****************** Projects ****************** -->
 <div align="left">
-  
-  <h3 align="left">🚀 Projetos:</h3>
+      <h3 align="left">🚀 Projetos:</h3>
 
 - [Game Mania - HTML/CSS/JavaScript/JQuery](https://github.com/lucascarmo-glitch/Senai_Front-End)
 
@@ -73,28 +71,29 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
 <h3 align="left">🔥 Skills</h3>
 
 <!-- Programming Languages -->
-  <div style="flex-basis: 48%;">
+  <div style="gap: 15px" align="center">
     <h3>Linguagens e Tecnologias</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" width="40" height="30" alt="C#" />
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+        <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
+        <img align="center" alt="JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" width="80" height="80" alt="C#" />
+        <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+        <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </div>
-  
+<br/>
   <!-- Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="30"/>
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <div style="gap: 15px" align="center">
+        <h3>Ferramentas</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" align="center"/>
+        <img align="center" alt="VScode" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+        <img align="center" alt="Node" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80" align="center"/>
+        <img align="center" alt="Figma" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
-  
+<br/>
   <!-- Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas e Frameworks</h3>
-    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" align="" width="40" height="30">
-    <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="40" height="30"/>
+  <div style="gap: 15px" align="center">
+        <h3>Bibliotecas e Frameworks</h3>
+        <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" width="80" height="80" background-color="white"/>
+        <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="80" height="80"/>
   </div>
+<!-- ****************** End- Skills ****************** -->
