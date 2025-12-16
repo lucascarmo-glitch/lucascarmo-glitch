@@ -94,7 +94,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
         <h3>Bibliotecas e Frameworks</h3>
         <img align="center" alt="Angular" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
         <img align="center" alt="Angular Material" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
-        <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" width="80" height="80" align="center"/>
+        <img align="center" alt="Bootstrap" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
         
   </div>
 <!-- ****************** End- Skills ****************** -->
