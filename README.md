@@ -19,8 +19,6 @@
 <p>
 Sou um entusiasta de tecnologia e desenvolvimento, atualmente cursando graduação em Cibersegurança e formação em Programação Full Stack. Neste perfil, compartilho projetos acadêmicos, desafios de cursos e experimentos práticos que refletem minha evolução como profissional de TI.
 
-Meu objetivo é aplicar conhecimentos em programação, segurança cibernética e soluções inovadoras para problemas reais, construindo código limpo, organizado e funcional. Aqui você encontrará projetos que demonstram habilidades em Python, JavaScript, C#, desenvolvimento web, automação e boas práticas de segurança.
-
 Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transformar conhecimento em resultados práticos. Explore meus repositórios e acompanhe minha jornada de crescimento técnico e profissional.
 </p>
 <!-- ****************** End- Presentation ****************** -->
@@ -61,6 +59,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
       <h3 align="left">🚀 Projetos:</h3>
 
 - [Game Mania - HTML/CSS/JavaScript/JQuery](https://github.com/lucascarmo-glitch/Senai_Front-End)
+- [Gaming Zone - Angular/HTML/CSS/Typescript](https://github.com/lucascarmo-glitch/Projeto_Gaming-Zone)
 
 </div> 
 <!-- ****************** End - Projects ****************** -->
@@ -75,7 +74,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
     <h3>Linguagens e Tecnologias</h3>
         <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
         <img align="center" alt="JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="center" width="80" height="80" alt="C#" />
+        <img align="center" alt="TypeScript" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
         <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
         <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </div>
@@ -93,7 +92,9 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
   <!-- Libraries -->
   <div style="gap: 15px" align="center">
         <h3>Bibliotecas e Frameworks</h3>
+        <img align="center" alt="Angular" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
+        <img align="center" alt="Angular Material" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
         <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Bootstrap" width="80" height="80" align="center"/>
-        <img align="center" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="80" height="80"/>
+        
   </div>
 <!-- ****************** End- Skills ****************** -->
