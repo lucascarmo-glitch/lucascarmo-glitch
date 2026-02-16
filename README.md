@@ -59,7 +59,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
       <h3 align="left">🚀 Projetos:</h3>
 
 - [Game Mania - HTML/CSS/JavaScript/JQuery](https://github.com/lucascarmo-glitch/Senai_Front-End)
-- [Gaming Zone - Angular/HTML/CSS/Typescript](https://github.com/lucascarmo-glitch/Projeto_Gaming-Zone)
+- [Gaming Zone - Angular/HTML/CSS/Typescript]([https://github.com/lucascarmo-glitch/Projeto_Gaming-Zone](https://github.com/lucascarmo-glitch/Projeto-Gaming_Zone))
 
 </div> 
 <!-- ****************** End - Projects ****************** -->
