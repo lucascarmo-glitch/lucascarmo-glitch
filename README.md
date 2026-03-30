@@ -76,6 +76,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
         <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
         <img align="center" alt="JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
         <img align="center" alt="TypeScript" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+        <img align="center" alt="CSharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
         <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
         <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   </div>
@@ -94,7 +95,7 @@ Estou sempre aberto a aprender novas tecnologias, colaborar em projetos e transf
   <div style="gap: 15px" align="center">
         <h3>Bibliotecas e Frameworks</h3>
         <img align="center" alt="Angular" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-        <img align="center" alt="Angular Material" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
+        <img align="center" alt="DotNet" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
         <img align="center" alt="Bootstrap" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
         
   </div>
